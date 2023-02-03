@@ -1,0 +1,16 @@
+### Module positions - created on Sunday, 22 January 2023 at 11:15:44 am ###
+### Printed by Pcbnew version (6.0.10-0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                                        PosX       PosY       Rot  Side
+C1        C_Polarized  CAP_EEEFN1E100R                             16.5100   -40.6400    0.0000  top
+RV1       POT          Potentiometer_Alps_RK09K_Single_Vertical    34.2900    -6.3500   90.0000  top
+RV2       POT          Potentiometer_Alps_RK09K_Single_Vertical    34.2900   -36.3500   90.0000  top
+RV5       POT          Potentiometer_Alps_RK09K_Single_Vertical    64.2900    -6.3500   90.0000  top
+RV6       POT          Potentiometer_Alps_RK09K_Single_Vertical    64.2900   -36.3500   90.0000  top
+RV9       POT          Potentiometer_Alps_RK09K_Single_Vertical    94.2900    -6.3500   90.0000  top
+RV10      POT          Potentiometer_Alps_RK09K_Single_Vertical    94.2900   -36.3500   90.0000  top
+RV13      POT          Potentiometer_Alps_RK09K_Single_Vertical   124.2900    -6.3500   90.0000  top
+RV14      POT          Potentiometer_Alps_RK09K_Single_Vertical   124.2900   -36.3500   90.0000  top
+U3        Teensy-LC    Teensy30_31_32_LC                           17.7800   -17.7800  -90.0000  top
+## End

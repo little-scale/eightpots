@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"RV13,RV14,RV9,RV2,RV6,RV5,RV1,RV10";"Potentiometer_Alps_RK09K_Single_Vertical";8;"POT";;;
+2;"U3";"Teensy30_31_32_LC";1;"Teensy-LC";;;
+3;"H4,H3,H2,H1";"MountingHole_3.2mm_M3";4;"MountingHole";;;
+4;"C1";"CAP_EEEFN1E100R";1;"C_Polarized";;;
+5;"C17,C18,C5,C10,C9,C6,C13,C2,C14";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";9;"C";;;
